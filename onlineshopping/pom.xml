@@ -36,7 +36,7 @@
 			<artifactId>spring-webmvc</artifactId>
 			<version>${spring.version}</version>
 		</dependency>
-		
+
 		<!-- JSTL -->
 		<dependency>
 			<groupId>jstl</groupId>
@@ -44,6 +44,12 @@
 			<version>1.2</version>
 		</dependency>
 
+		<!-- Link shoppingBackend -->
+		<dependency>
+			<groupId>com.andraus</groupId>
+			<artifactId>shoppingbackend</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 
 	</dependencies>
 	<build>
