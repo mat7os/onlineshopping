@@ -1,4 +1,4 @@
-<h1 class="mt-4 ml-2" id="category">Categories</h1>
+<h1 class="mt-4 ml-2" >Categories</h1>
 
 <div class="list-group">
 

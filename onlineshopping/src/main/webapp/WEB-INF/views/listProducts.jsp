@@ -1,9 +1,9 @@
-<divclass"container">
+<div class="container">
 <div class="row">
-	<div class="col-md-3">
+	<div class="col-md-3 ">
 		<%@include file="./shared/sidebar.jsp"%>
 	</div>
-	<div class="col-md-9">
+	<div class="col-md-9 mt-4">
 		<div class="col-md-12">
 
 			<c:if test="${userClickAllProducts == true}">
